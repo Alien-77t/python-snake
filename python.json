@@ -1,7 +1,7 @@
 {
   "name": "Python",
   "symbol": "أفعى ذهبية",
-  "image": "https://raw.githubusercontent.com/Alien-77/python-snake/main/snake-token.png",
+  "image": "https://github.com/Alien-77t/python-snake/blob/main/snake-token.png?raw=true",
   "description": "عملة Python مستوحاة من الأفعى الذهبية",
   "seller_fee_basis_points": 0,
   "properties": {
