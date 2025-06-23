@@ -1,0 +1,22 @@
+{
+  "name": "AlienCoin",
+  "symbol": "ALIEN",
+  "image": "https://github.com/Alien-77t/python-snake/blob/main/snake-token.png?raw=true",
+  "description": "عملة AlienCoin توكن مخصص للعرض والتداول",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [
+      {
+        "address": "9kv32m44vfPPiNwXoNeoDxNBxBCBsHMr7UHfrZH2Rrq3",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alien-77t/python-snake/main/snake-token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
