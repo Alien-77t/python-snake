@@ -1,0 +1,16 @@
+{
+  "name": "AlienCoin",
+  "symbol": "ALIEN",
+  "image": "https://github.com/Alien-77t/python-snake/blob/main/snake-token.png?raw=true",
+  "description": "عملة AlienCoin مستوحاة من الفضاء",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [],
+    "files": [
+      {
+        "uri": "https://github.com/Alien-77t/python-snake/blob/main/snake-token.png?raw=true",
+        "type": "image/png"
+      }
+    ]
+  }
+}
